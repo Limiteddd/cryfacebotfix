@@ -6,8 +6,11 @@ client.on('ready', () => {
 });
 
 client.on('message', message => {
-    if (message.content === 'ping') {
-    	message.reply('pong');
+    if (message.content === 'miafasz') {
+    	message.reply('Mi a faszom ez mi a gecim ez?');
+  	}
+    if (message.content === 'rpg') {
+    	message.reply('De bazdmeg,ebbe a játékba csak rpgvel lehet nyerni.');
   	}
 });
 
