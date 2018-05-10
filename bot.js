@@ -9,9 +9,20 @@ client.on('message', message => {
     if (message.content === 'mcking') {
     	message.reply('<---Szia! MCKing vagyok! 0-24 shit intel pentiumos mémet fogom nyomni,és macfagezni és basztatni mindenkit :smile:');
   	}
-    if (message.content === 'rpg') {
-    	message.reply('De bazdmeg,ebbe a játékba csak rpgvel lehet nyerni.');
+    if (message.content === 'raptor') {
+    	message.reply('A böröntben fog megrohadni DankBoostal együtt!!! :angry:');
   	}
+      if (message.content === 'ddos') {
+    	message.reply('A digit nem lehet ddosolni haha :smile:');
+  	}
+     if (message.content === 'youtube') {
+    	message.reply('Áh,lehet holnapután újrakezdem aztán abbahagyom,és megint újrakezdem 2 hét múlva! :)');
+  	}
+     if (message.content === 'idő') {
+    	message.reply('INTEL PENTIUM PROSESSOR IDŐ!');
+  	}
+    if (message.content === 'monthyx') {
+    	message.reply('Monthyx is basztatott folyton hogy ddosol leakel stb meg feltöri a steam akkom');
 });
 
 // THIS  MUST  BE  THIS  WAY
