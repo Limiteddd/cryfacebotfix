@@ -21,8 +21,9 @@ client.on('message', message => {
      if (message.content === 'idő') {
     	message.reply('INTEL PENTIUM PROSESSOR IDŐ!');
   	}
-    if (message.content === 'monthyx') {
-    	message.reply('Monthyx is basztatott folyton hogy ddosol leakel stb meg feltöri a steam akkom');
+  if (message.content === 'monthyx') {
+    	message.reply('Monthyx is folyton basztatott feltöri a steam akkom leakel stb :sad:');
+  	}
 });
 
 // THIS  MUST  BE  THIS  WAY
